@@ -1,8 +1,17 @@
 [
-  { "id": "1", "judul": "Laporan praktikum CSS", "kategori": "Kuliah", "tenggat": "2026-10-28", "prioritas": "tinggi" },
-  { "id": "2", "judul": "Rapat himpunan", "kategori": "Organisasi", "tenggat": "2026-10-29", "prioritas": "sedang" },
-  { "id": "3", "judul": "Kuis JavaScript", "kategori": "Kuliah", "tenggat": "2026-10-30", "prioritas": "tinggi" },
-  { "id": "4", "judul": "Proposal lomba web", "kategori": "Lomba", "tenggat": "2026-11-02", "prioritas": "sedang" },
-  { "id": "5", "judul": "Notulen kegiatan", "kategori": "Organisasi", "tenggat": "2026-11-03", "prioritas": "rendah" },
-  { "id": "6", "judul": "Ringkasan materi React", "kategori": "Kuliah", "tenggat": "2026-11-05", "prioritas": "sedang" }
+  { "id": "1", "judul": "Bika Ambon", "daerahAsal": "Ambon", "waktuMasak": "2026-10-28", "tingkatKesulitan": "tinggi" },
+  { "id": "2", "judul": "Rendang", "daerahAsal": "Sumatera Barat", "waktuMasak": "2026-10-29", "tingkatKesulitan": "sedang" },
+  { "id": "3", "judul": "Gulai Belacan", "daerahAsal": "Riau", "waktuMasak": "2026-10-30", "tingkatKesulitan": "tinggi" },
+  { "id": "4", "judul": "Karedok", "daerahAsal": "Jawa Barat", "waktuMasak": "2026-11-02", "tingkatKesulitan": "sedang" },
+  { "id": "5", "judul": "Pempek", "daerahAsal": "Sumatera Selatan", "waktuMasak": "2026-11-03", "tingkatKesulitan": "rendah" },
+  { "id": "6", "judul": "Pendap", "daerahAsal": "Bengkulu", "waktuMasak": "2026-11-05", "tingkatKesulitan": "sedang" },
+  { "id": "7", "judul": "Seruit", "daerahAsal": "Lampung", "waktuMasak": "2026-11-06", "tingkatKesulitan": "tinggi" },
+  { "id": "8", "judul": "Lumpia", "daerahAsal": "Jawa Tengah", "waktuMasak": "2026-11-07", "tingkatKesulitan": "tinggi" },
+  { "id": "9", "judul": "Nasi Gudeg", "daerahAsal": "Yogyakarta", "waktuMasak": "2026-11-08", "tingkatKesulitan": "sedang" },
+  { "id": "10", "judul": "Rujak Cingur", "daerahAsal": "Jawa Timur", "waktuMasak": "2026-11-09", "tingkatKesulitan": "rendah" },
+  { "id": "11", "judul": "Papeda", "daerahAsal": "Papua", "waktuMasak": "2026-11-10", "tingkatKesulitan": "sedang" },
+  { "id": "12", "judul": "Jagung Bose", "daerahAsal": "Nusa Tenggara Timur", "waktuMasak": "2026-11-11", "tingkatKesulitan": "tinggi" },
+  { "id": "13", "judul": "Kalumpe", "daerahAsal": "Kalimantan Tengah", "waktuMasak": "2026-11-12", "tingkatKesulitan": "sedang" },
+  { "id": "14", "judul": "Lapa-Lapa", "daerahAsal": "Sulawesi Tenggara", "waktuMasak": "2026-11-13", "tingkatKesulitan": "tinggi" },
+  { "id": "15", "judul": "Bolu Paranggi", "daerahAsal": "Sulawesi Barat", "waktuMasak": "2026-11-14", "tingkatKesulitan": "sedang" }
 ]
