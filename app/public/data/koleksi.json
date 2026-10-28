@@ -1,10 +1,107 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Bika Ambon",
+    "daerahAsal": "Ambon",
+    "waktuMasak": 100,
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "2",
+    "judul": "Rendang",
+    "daerahAsal": "Sumatera Barat",
+    "waktuMasak": 300,
+    "tingkatKesulitan": "Tinggi"
+  },
+  {
+    "id": "3",
+    "judul": "Gulai Belacan",
+    "daerahAsal": "Riau",
+    "waktuMasak": 45,
+    "tingkatKesulitan": "Mudah"
+  },
+  {
+    "id": "4",
+    "judul": "Karedok",
+    "daerahAsal": "Jawa Barat",
+    "waktuMasak": 15,
+    "tingkatKesulitan": "Mudah"
+  },
+  {
+    "id": "5",
+    "judul": "Pempek",
+    "daerahAsal": "Sumatera Selatan",
+    "waktuMasak": 90,
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "6",
+    "judul": "Pendap",
+    "daerahAsal": "Bengkulu",
+    "waktuMasak": 180,
+    "tingkatKesulitan": "Tinggi"
+  },
+  {
+    "id": "7",
+    "judul": "Seruit",
+    "daerahAsal": "Lampung",
+    "waktuMasak": 60,
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "8",
+    "judul": "Lumpia",
+    "daerahAsal": "Jawa Tengah",
+    "waktuMasak": 60,
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "9",
+    "judul": "Nasi Gudeg",
+    "daerahAsal": "Yogyakarta",
+    "waktuMasak": 240,
+    "tingkatKesulitan": "Tinggi"
+  },
+  {
+    "id": "10",
+    "judul": "Rujak Cingur",
+    "daerahAsal": "Jawa Timur",
+    "waktuMasak": 60,
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "11",
+    "judul": "Papeda",
+    "daerahAsal": "Papua",
+    "waktuMasak": 30,
+    "tingkatKesulitan": "Mudah"
+  },
+  {
+    "id": "12",
+    "judul": "Jagung Bose",
+    "daerahAsal": "Nusa Tenggara Timur",
+    "waktuMasak": 120,
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "13",
+    "judul": "Kalumpe",
+    "daerahAsal": "Kalimantan Tengah",
+    "waktuMasak": 60,
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "14",
+    "judul": "Lapa-Lapa",
+    "daerahAsal": "Sulawesi Tenggara",
+    "waktuMasak": 90,
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "15",
+    "judul": "Bolu Paranggi",
+    "daerahAsal": "Sulawesi Barat",
+    "waktuMasak": 45,
+    "tingkatKesulitan": "Sedang"
   }
 ]
