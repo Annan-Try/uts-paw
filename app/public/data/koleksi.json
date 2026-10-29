@@ -2,6 +2,7 @@
   {
     "id": "1",
     "judul": "Bika Ambon",
+    "kategori": "Kue tradisional",
     "daerahAsal": "Ambon",
     "waktuMasak": 100,
     "tingkatKesulitan": "Sedang"
@@ -9,6 +10,7 @@
   {
     "id": "2",
     "judul": "Rendang",
+    "kategori": "Lauk-pauk",
     "daerahAsal": "Sumatera Barat",
     "waktuMasak": 300,
     "tingkatKesulitan": "Tinggi"
@@ -16,6 +18,7 @@
   {
     "id": "3",
     "judul": "Gulai Belacan",
+    "kategori": "Lauk-pauk",
     "daerahAsal": "Riau",
     "waktuMasak": 45,
     "tingkatKesulitan": "Mudah"
@@ -23,6 +26,7 @@
   {
     "id": "4",
     "judul": "Karedok",
+    "kategori": "Sayuran",
     "daerahAsal": "Jawa Barat",
     "waktuMasak": 15,
     "tingkatKesulitan": "Mudah"
@@ -30,6 +34,7 @@
   {
     "id": "5",
     "judul": "Pempek",
+    "kategori": "Camilan",
     "daerahAsal": "Sumatera Selatan",
     "waktuMasak": 90,
     "tingkatKesulitan": "Sedang"
@@ -37,6 +42,7 @@
   {
     "id": "6",
     "judul": "Pendap",
+    "kategori": "Lauk-pauk",
     "daerahAsal": "Bengkulu",
     "waktuMasak": 180,
     "tingkatKesulitan": "Tinggi"
@@ -44,6 +50,7 @@
   {
     "id": "7",
     "judul": "Seruit",
+    "kategori": "Lauk-pauk",
     "daerahAsal": "Lampung",
     "waktuMasak": 60,
     "tingkatKesulitan": "Sedang"
@@ -51,6 +58,7 @@
   {
     "id": "8",
     "judul": "Lumpia",
+    "kategori": "Camilan",
     "daerahAsal": "Jawa Tengah",
     "waktuMasak": 60,
     "tingkatKesulitan": "Sedang"
@@ -58,6 +66,7 @@
   {
     "id": "9",
     "judul": "Nasi Gudeg",
+    "kategori": "Makanan utama",
     "daerahAsal": "Yogyakarta",
     "waktuMasak": 240,
     "tingkatKesulitan": "Tinggi"
@@ -65,6 +74,7 @@
   {
     "id": "10",
     "judul": "Rujak Cingur",
+    "kategori": "Makanan utama",
     "daerahAsal": "Jawa Timur",
     "waktuMasak": 60,
     "tingkatKesulitan": "Sedang"
@@ -72,6 +82,7 @@
   {
     "id": "11",
     "judul": "Papeda",
+    "kategori": "Makanan pokok",
     "daerahAsal": "Papua",
     "waktuMasak": 30,
     "tingkatKesulitan": "Mudah"
@@ -79,6 +90,7 @@
   {
     "id": "12",
     "judul": "Jagung Bose",
+    "kategori": "Makanan pokok",
     "daerahAsal": "Nusa Tenggara Timur",
     "waktuMasak": 120,
     "tingkatKesulitan": "Sedang"
@@ -86,6 +98,7 @@
   {
     "id": "13",
     "judul": "Kalumpe",
+    "kategori": "Sayuran",
     "daerahAsal": "Kalimantan Tengah",
     "waktuMasak": 60,
     "tingkatKesulitan": "Sedang"
@@ -93,6 +106,7 @@
   {
     "id": "14",
     "judul": "Lapa-Lapa",
+    "kategori": "Makanan pokok",
     "daerahAsal": "Sulawesi Tenggara",
     "waktuMasak": 90,
     "tingkatKesulitan": "Sedang"
@@ -100,6 +114,7 @@
   {
     "id": "15",
     "judul": "Bolu Paranggi",
+    "kategori": "Kue tradisional",
     "daerahAsal": "Sulawesi Barat",
     "waktuMasak": 45,
     "tingkatKesulitan": "Sedang"
