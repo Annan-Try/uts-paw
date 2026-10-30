@@ -63,19 +63,73 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
 
 ```markdown
-# Nama Aplikasi
+# Resep Makanan Nusantara by Annan
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Annan Try Muhammad Cintoro
+NIM: 124140061
+Kelas: RA
+Tema: Resep Masakan Nusantara
+Deployment: https://Annan-Try.github.io/uts-paw/
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar beranda](docs/Beranda.png)
 
-## Fitur
+## Fitur Beranda
 
-- ...
+- Menampilkan judul tema
+- Ringkasan jumlah resep dan jumlah kategori
+- Tautan ke halaman Resep
+
+![Tangkapan Layar Resep](docs/Resep.png)
+
+## Fitur Resep
+
+- Menampilkan semua resep yang tersedia dalam bentuk kartu
+- Pencarian resep berdasarkan judul
+- Filter Kategori
+- Pesan khusus saat pencarian tidak menemukan resep
+
+![Tangkapan Layar Detail](docs/Detail.png)
+
+## Fitur Detail
+
+- Menampilkan judul sebagai header utama
+- Menampilkan kategori, waktu masak, tingkat kesulitan dan daerah asal
+- Tombol hapus resep dengan konfirmasi sebelum dihapus
+- Tautan untuk kembali ke halaman Resep
+
+![Tangkapan Layar Tambah](docs/Tambah.png)
+
+## Fitur Tambah
+
+- Form input untuk resep baru
+- Validasi untuk setiap field yang tidak diisi
+- Pesan error khusus untuk setiap field
+- Dropdown kategori otomatis
+
+![Tangkapan Layar Statistik](docs/Statistik.png)
+
+## Fitur Statistik
+
+- Tabel jumlah resep per kategori dengan total keseluruhan
+
+![Tangkapan Layar Tentang](docs/Tentang.png)
+
+## Fitur Tentang
+
+- Menampilkan Identitas beserta Tema
+- Tautan URL menuju Repo Github
+
+![Tangkapan Layar 404(Halaman Tidak Tersedia)](docs/404.png)
+
+# Fitur 404
+
+- Pesan 404 Halaman tidak ditemukan untuk URL yang tidak dikenal
+- Tautan untuk kembali ke beranda
+
+## Fitur Lainnya
+
+- Penyimpanan data di Local Storage menggunakan useLocalStorage sehingga data tambah/hapus akan tetap tersimpan meskipun halaman di refresh
+- Navigasi antar halaman
 
 ## Menjalankan secara lokal
 
@@ -85,5 +139,9 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
-```
+- Komponen Fungsional untuk semua halaman
+- Hooks bawan seperti useState dan useEffect
+- Custom Hooks seperti useKoleksi dan useLokalStorage
+- Conditional rendering apabila status loading, errror, data kosong dan halaman tidak ditemukan
+- List Rendering untuk menampilkan daftar kartu resep, dropdown kategori dan baris tabel pada statistik
+- Controlled Components untuk semua input form dari tambah dan kotak pencarian dikendalikan melalui value + onChange
