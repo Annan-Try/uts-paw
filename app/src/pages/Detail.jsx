@@ -34,6 +34,8 @@ export default function Detail() {
         <dd>: {item.waktuMasak} Menit</dd>
         <dt>Tingkat Kesulitan</dt>
         <dd>: {item.tingkatKesulitan}</dd>
+        <dt>Daerah Asal</dt>
+        <dd>: {item.daerahAsal}</dd>
       </dl>
       <div className="aksi">
         <button type="button" onClick={konfirmasiHapus}>

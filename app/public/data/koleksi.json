@@ -13,7 +13,7 @@
     "kategori": "Lauk-pauk",
     "daerahAsal": "Sumatera Barat",
     "waktuMasak": 300,
-    "tingkatKesulitan": "Tinggi"
+    "tingkatKesulitan": "Sulit"
   },
   {
     "id": "3",
@@ -45,7 +45,7 @@
     "kategori": "Lauk-pauk",
     "daerahAsal": "Bengkulu",
     "waktuMasak": 180,
-    "tingkatKesulitan": "Tinggi"
+    "tingkatKesulitan": "Sulit"
   },
   {
     "id": "7",
@@ -69,7 +69,7 @@
     "kategori": "Makanan utama",
     "daerahAsal": "Yogyakarta",
     "waktuMasak": 240,
-    "tingkatKesulitan": "Tinggi"
+    "tingkatKesulitan": "Sulit"
   },
   {
     "id": "10",
