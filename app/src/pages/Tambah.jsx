@@ -34,15 +34,12 @@ export default function Tambah() {
     }
     if (form.waktuMasak < 10) {
       setGalatWaktuMasak('Waktu Masak wajib diisi, minimal 10 menit.')
-      valid = false
     }
     if (!form.kategori) {
       setGalatKategori('Kategori wajib dipilih.')
-      valid = false
     }
     if (!form.daerahAsal) {
       setGalatDaerahAsal('Daerah Asal wajib diisi.')
-      valid = false
     }
     if (!valid) return
     tambah({ ...form, judul: form.judul.trim() })
